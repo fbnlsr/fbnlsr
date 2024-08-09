@@ -2,7 +2,7 @@
 
 My name is Fabien, and I'm a full stack web developper from Bordeaux, France.
 
-Since 2012, I’ve been helping many clients achieve innovative things on the web. I mainly work with modern tools and frameworks such as **WordPress**, **Symfony**, and **Vue.js**.
+Since 2012, I’ve been helping many clients achieve innovative things on the web. I mainly work with modern tools and frameworks such as **Symfony**, and **Vue.js**.
 
 You can find more info on https://www.fabienlasserre.dev
 
