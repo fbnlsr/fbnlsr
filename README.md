@@ -1,10 +1,12 @@
-### Hi there 👋
+## Fabien Lasserre
 
-My name is Fabien, and I'm a full stack web developer from Bordeaux, France.
+Senior full stack developer.
 
-Since 2012, I’ve been helping many clients achieve innovative things on the web. I mainly work with modern tools and frameworks such as **Symfony**, and **Vue.js**.
+PHP / Symfony / Vue.js / Graphql
 
-You can find more info on https://www.fabienlasserre.dev
+From Bordeaux, France.
+
+[https://www.fabienlasserre.dev/en/](https://www.fabienlasserre.dev/en/)
 
 <!--
 **fbnlsr/fbnlsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
